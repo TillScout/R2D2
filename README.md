@@ -1,6 +1,7 @@
 # R2D2
 
 This repository is to organize my hardware and software files for my styrene R2D2 project. Currently most of the files are still in very early stages of development and yet unpublished.
+
 ## Background:
 The structural hardware is based on the eggcrate styrene frame by [Frank Pirz](http://www.r2d2.media-conversions.net/). Frank did an amazing job in developing a design for a frame that is easy to assemble by having the parts slide into each other with appropriate slots. These slots were however designed for imperial measurements.
 
@@ -21,6 +22,7 @@ to be updated over time.
 * hardware and software designs for PSIs and logic displays
 * actuation of all panels
 * ...
+
 ---
 
 Please visit www.astromech.net!
