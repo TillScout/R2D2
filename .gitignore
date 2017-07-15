@@ -1,3 +1,10 @@
+# own things:
+background_material
+*.e8
+*.ngc
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
