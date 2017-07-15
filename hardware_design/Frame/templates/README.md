@@ -1,3 +1,3 @@
-some templates for the structural frame rings, that have the slots to accept the ribs in metric. This is for usage when modifying the frame rings to have the slots all aligned.
+These are just some templates for the structural frame rings, that have the slots to accept the ribs in metric. This was meant for usage when modifying the frame rings such that all slots are aligned.
 
-Created two versions, one metric version with the original design and one version that has a door at the back of the frame.
+There are two versions, one metric version with the original design and one modified metric version that allows for a maintanence door at the back of the droid frame.
