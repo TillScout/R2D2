@@ -10,8 +10,8 @@ This is the BOM for the frame:
 |Ring 4   	|`ring4 door.dxf` |3mm  	| 1  	|   	|   |
 |a-rib   	|`a-ribs.dxf` |3mm  	| 1  	|1   	|contains "left" version   |
 |c-rib   	|`c-ribs.dxf` |3mm  	| 1  	|1   	|contains "left" version   |
-|d-rib   	|`d-rib.dxf` |3mm  	| 1  	| 4  	| 4  |
-|e-rib   	|`e-rib.dxf` |3mm  	| 1  	| 4 	| 4  |
-|g-rib   	|`g-rib.dxf` |3mm  	| 1  	| 4  	| 4  |
+|d-rib   	|`d-rib.dxf` |3mm  	| 1  	| 4  	|   |
+|e-rib   	|`e-rib.dxf` |3mm  	| 1  	| 4 	|   |
+|g-rib   	|`g-rib.dxf` |3mm  	| 1  	| 4  	|   |
 |ankle plate   	|`ankle_plate.dxf` |3mm  	| 2  	|2   	|   |
 |ankle slice   	|`ankle_slice.dxf` |3mm  	| 2  	|2   	|   |
