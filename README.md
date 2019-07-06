@@ -12,11 +12,17 @@ Trying those on 3mm styrene sheets instead of 1/8th of an inch showed to be a bi
 What you see is two pieces of 3mm styrene with 1/8th inch slots. There is visible deflection and the connection was very loose. After seeing this, I decided to modify all of Frank's files to have 3mm slots to give a tighter connection to ease assembly and gluing.
 
 ## Current status:
-to be updated over time.
+After a two-year break of working on R2 I plan to start again. For the moment I will re-organize my work a bit and focus on the dome for the time being
+
+Regarding the frame I contemplate switching to the updated CS:R design of R2. I already have some frame parts finished and also spent considerable time to turn Frank's design into metric, but the CS:R frame is more advanced and more accurate.
+
 
 
 ## Plans for the future:
 
+* construct 3d model of the dome
+* design and test 3d-printable dome hinges
+* develop code for logic engines
 * finalize metric version of Frank's plans
 * add 232 functionality
 * hardware and software designs for PSIs and logic displays
